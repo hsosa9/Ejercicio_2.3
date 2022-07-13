@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio_2.3</string>
+    <string name="btn_guardar">GUARDAR</string>
+    <string name="btn_img">IMAGENES</string>
+    <string name="txt_des">Descripcion</string>
+    <string name="txt_sdes">Sin Descripcion</string>
+</resources>
